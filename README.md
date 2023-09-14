@@ -8,7 +8,7 @@
   ___
   
 <div align=left> 
-<h2> Мои контакты  :skull: </h2>
+<h2> Мои контакты:  :skull: </h2>
 </div>
 
 <div align=left >
@@ -26,4 +26,14 @@
 <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=Youtube&logoColor="/>
 
 
+</div>
+
+ ___
+
+<div align=left> 
+<h2> Какие изучаю языки и инструменты: :fire:</h2>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="100" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="60"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title ="Python" alt = "Python" width = "100" height ="60"/>
 </div>
